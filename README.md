@@ -1,1 +1,1 @@
-# Voting-Block-Chain
+Senior Project
